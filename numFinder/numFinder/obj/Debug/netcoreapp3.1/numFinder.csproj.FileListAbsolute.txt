@@ -1,0 +1,13 @@
+C:\Users\Mas\source\repos\numFinder\numFinder\bin\Debug\netcoreapp3.1\numFinder.exe
+C:\Users\Mas\source\repos\numFinder\numFinder\bin\Debug\netcoreapp3.1\numFinder.deps.json
+C:\Users\Mas\source\repos\numFinder\numFinder\bin\Debug\netcoreapp3.1\numFinder.runtimeconfig.json
+C:\Users\Mas\source\repos\numFinder\numFinder\bin\Debug\netcoreapp3.1\numFinder.runtimeconfig.dev.json
+C:\Users\Mas\source\repos\numFinder\numFinder\bin\Debug\netcoreapp3.1\numFinder.dll
+C:\Users\Mas\source\repos\numFinder\numFinder\bin\Debug\netcoreapp3.1\numFinder.pdb
+C:\Users\Mas\source\repos\numFinder\numFinder\obj\Debug\netcoreapp3.1\numFinder.csprojAssemblyReference.cache
+C:\Users\Mas\source\repos\numFinder\numFinder\obj\Debug\netcoreapp3.1\numFinder.AssemblyInfoInputs.cache
+C:\Users\Mas\source\repos\numFinder\numFinder\obj\Debug\netcoreapp3.1\numFinder.AssemblyInfo.cs
+C:\Users\Mas\source\repos\numFinder\numFinder\obj\Debug\netcoreapp3.1\numFinder.csproj.CoreCompileInputs.cache
+C:\Users\Mas\source\repos\numFinder\numFinder\obj\Debug\netcoreapp3.1\numFinder.dll
+C:\Users\Mas\source\repos\numFinder\numFinder\obj\Debug\netcoreapp3.1\numFinder.pdb
+C:\Users\Mas\source\repos\numFinder\numFinder\obj\Debug\netcoreapp3.1\numFinder.genruntimeconfig.cache
